@@ -1,10 +1,11 @@
 package mcxtzhang.itemdecorationdemo.utils;
 
 import android.content.Context;
-import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+
+import androidx.recyclerview.widget.RecyclerView;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -62,7 +63,7 @@ public abstract class CommonAdapter<T> extends RecyclerView.Adapter<ViewHolder> 
 
     /**
      * 在onCreateHolder里调用的，但是在增加了HeaderFooter后，postion位置，会不正确。
-     * 所以如果使用了{@link HeaderAndFooterWrapperAdapter},建议使用 {@link #setListener(int, ViewHolder)} 这个方法，返回的位置是正确的。
+     * 所以如果使用了{@link },建议使用 {@link #setListener(int, ViewHolder)} 这个方法，返回的位置是正确的。
      *
      * @param parent
      * @param viewHolder
