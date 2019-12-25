@@ -2,8 +2,9 @@ package mcxtzhang.itemdecorationdemo.ui;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
 import android.view.View;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import mcxtzhang.itemdecorationdemo.R;
 
@@ -30,7 +31,7 @@ public class LauncherActivity extends AppCompatActivity {
         findViewById(R.id.swipe).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                startActivity(new Intent(v.getContext(), SwipeDelMenuActivity.class));
+//                startActivity(new Intent(v.getContext(), SwipeDelMenuActivity.class));
             }
         });
 
