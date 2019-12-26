@@ -1,6 +1,6 @@
-package com.mcxtzhang.indexlib.IndexBar.helper;
+package com.mcxtzhang.indexlib.indexbar.helper;
 
-import com.mcxtzhang.indexlib.IndexBar.bean.BaseIndexPinyinBean;
+import com.mcxtzhang.indexlib.indexbar.bean.BaseIndexPinyinBean;
 
 import java.util.List;
 

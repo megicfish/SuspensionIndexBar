@@ -1,4 +1,4 @@
-package com.mcxtzhang.indexlib.IndexBar.widget;
+package com.mcxtzhang.indexlib.indexbar.widget;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -15,9 +15,9 @@ import android.widget.TextView;
 
 import androidx.recyclerview.widget.LinearLayoutManager;
 
-import com.mcxtzhang.indexlib.IndexBar.bean.BaseIndexPinyinBean;
-import com.mcxtzhang.indexlib.IndexBar.helper.IIndexBarDataHelper;
-import com.mcxtzhang.indexlib.IndexBar.helper.IndexBarDataHelperImpl;
+import com.mcxtzhang.indexlib.indexbar.bean.BaseIndexPinyinBean;
+import com.mcxtzhang.indexlib.indexbar.helper.IIndexBarDataHelper;
+import com.mcxtzhang.indexlib.indexbar.helper.IndexBarDataHelperImpl;
 import com.mcxtzhang.indexlib.R;
 
 import java.util.ArrayList;

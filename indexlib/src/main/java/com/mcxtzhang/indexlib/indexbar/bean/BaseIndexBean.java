@@ -1,4 +1,4 @@
-package com.mcxtzhang.indexlib.IndexBar.bean;
+package com.mcxtzhang.indexlib.indexbar.bean;
 
 import com.mcxtzhang.indexlib.suspension.ISuspensionInterface;
 

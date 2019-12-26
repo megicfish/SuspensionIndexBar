@@ -1,7 +1,7 @@
-package com.mcxtzhang.indexlib.IndexBar.helper;
+package com.mcxtzhang.indexlib.indexbar.helper;
 
 import com.github.promeg.pinyinhelper.Pinyin;
-import com.mcxtzhang.indexlib.IndexBar.bean.BaseIndexPinyinBean;
+import com.mcxtzhang.indexlib.indexbar.bean.BaseIndexPinyinBean;
 
 import java.util.Collections;
 import java.util.Comparator;

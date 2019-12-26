@@ -1,4 +1,4 @@
-package com.mcxtzhang.indexlib.IndexBar.bean;
+package com.mcxtzhang.indexlib.indexbar.bean;
 
 /**
  * 介绍：索引类的汉语拼音的接口
